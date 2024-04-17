@@ -9,3 +9,8 @@ form.addEventListener('submit', (e)=>{
     console.log(time.value);
 
 });
+
+$("diV#testDiv").load("./content.html .more")
+
+// $("div").text("Test is working").css("font-weight", "bold")
+    
